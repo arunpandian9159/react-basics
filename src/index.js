@@ -1,6 +1,6 @@
 function fn()
 {
-    if(Long.uname.value=="admin" && Long.m.value=="admin")
+    if(uname.value=="admin" && pword.value=="admin")
 {
     alert("Login Successful: You are authorised");
 }
